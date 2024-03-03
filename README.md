@@ -7,3 +7,7 @@ Also, view the video / screenshots below for assistance.
 
 ![Alt Text](https://github.com/linuxguist/Easy_Shopping_Cart_For_All_Shopkeepers/blob/main/Shopping_Cart.png "Image Title")
 
+Youtube Video Help Guide : 
+
+https://youtu.be/oCGgPfdo8oQ
+
