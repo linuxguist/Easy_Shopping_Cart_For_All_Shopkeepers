@@ -5,3 +5,5 @@ Just download the above zip file, extract it and then view / edit the index.html
 
 Also, view the video / screenshots below for assistance.
 
+![Alt Text](https://i.imgur.com/jK4CmjU.jpg "Image Title")
+
