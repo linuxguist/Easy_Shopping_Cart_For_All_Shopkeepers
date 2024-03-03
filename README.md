@@ -11,3 +11,7 @@ Youtube Video Help Guide :
 
 https://youtu.be/oCGgPfdo8oQ
 
+Tags :
+
+free shopping cart / POS (point-of-sale) software perfect for your retail store, restaurant, food truck, grocery store, beauty salon, car wash and more.
+
