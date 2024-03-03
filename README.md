@@ -5,5 +5,5 @@ Just download the above zip file, extract it and then view / edit the index.html
 
 Also, view the video / screenshots below for assistance.
 
-![Alt Text](https://github.com/linuxguist/Easy_Shopping_Cart_For_All_Shopkeepers/blob/main/Shopping_Cart.png) "Image Title")
+![Alt Text](https://github.com/linuxguist/Easy_Shopping_Cart_For_All_Shopkeepers/blob/main/Shopping_Cart.png "Image Title")
 
