@@ -5,6 +5,8 @@ Just download the above zip file, extract it and then view / edit the index.html
 
 Also, view the video / screenshots below for assistance.
 
+Notes: Out of Stock products are indicated with a disabled red color button. An example is included for this condition.
+
 ![Alt Text](https://github.com/linuxguist/Easy_Shopping_Cart_For_All_Shopkeepers/blob/main/Shopping_Cart.png "Image Title")
 
 Youtube Video Help Guide : 
