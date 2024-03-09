@@ -1,7 +1,7 @@
 # Easy_Shopping_Cart_For_All_Shopkeepers
-Better Customer Self Service With This Easy to Edit HTML FILE
+Better Customer Self Service With This Easy to Edit Spreadsheet FILE
 
-Just download the above zip file, extract it and then view / edit the index.html file on the internet browser / text editor. That's all.
+Just download the above zip file, extract it and then view the README.txt file for instructions.
 
 Also, view the video / screenshots below for assistance.
 
@@ -11,7 +11,7 @@ Notes: Out of Stock products are indicated with a disabled red color button. An 
 
 Youtube Video Help Guide : 
 
-https://youtu.be/oCGgPfdo8oQ
+https://youtu.be/uc4w4Yx7ON4
 
 Tags :
 
